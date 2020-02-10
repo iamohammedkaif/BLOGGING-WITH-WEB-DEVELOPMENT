@@ -1,0 +1,3 @@
+# MOHAMMED-KAIF-S
+
+This project involves writing of blogs of four people at same time they get updated we used PHP as our backhand technology,files are used to store the information about each and every user,there are separate files to store login and signup credentials, there is a separate admin and user login pages. The admins able to post the blogs about there current life these bolgs can be viewed by the other admin and they can replay. The user can be able to view the activities and chats among the admins . we used xamp server as the database.the php is used to create connection to the xamp server to the php. This project is not yet added authentication we are working on it,front-end of this project is created by the HTML,css and Bootstrap
